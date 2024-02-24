@@ -13,7 +13,7 @@ This program allows you to play Tic-Tac-Toe against the computer. The objective 
 ## Installation
 To run the game, make sure you have Python installed on your system.
 
-1. Clone the repository:
+### 1. Clone the repository:
 
 ```bash
 git clone https://github.com/your_username/tic-tac-toe.git
@@ -24,7 +24,7 @@ cd tic-tac-toe
 ## Run the game:
 python tic_tac_toe.py
 
-USAGE:
+## USAGE:
 After running the game, the initial board will be displayed:
 -------------
 | 1 | 2 | 3 |
@@ -38,5 +38,5 @@ After running the game, the initial board will be displayed:
 •	The computer will then make its move, and the updated board will be displayed.
 •	Continue making moves until a player wins, the game ends in a tie, or you decide to quit.
 
-Contributing
+### Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or enhancements, feel free to submit a pull request.
